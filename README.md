@@ -468,6 +468,14 @@ For restricted access data:
 
 * [Evaluation of data repositories based on the FAIR Principles for IDCC 2017 practice paper](https://doi.org/10.4121/uuid:5146dd06-98e4-426c-9ae5-dc8fa65c549f)
 
+### List of RDM repositories
+
+* [FAIRDOM-SEEK]()
+* [invenioRDM]
+* [iRODS](https://github.com/irods/irods)
+* [openBIS]
+* [Yoda](https://www.uu.nl/en/research/yoda)
+
 ### Persistent Identifiers
 
 * [DOI registration agencies](https://www.doi.org/registration_agencies.html) is a list of current DOI registration agencies
