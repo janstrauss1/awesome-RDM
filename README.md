@@ -470,8 +470,8 @@ For restricted access data:
 
 ### List of RDM repositories
 
-* [FAIRDOM-SEEK]()
-* [invenioRDM]
+* [FAIRDOM-SEEK](https://seek4science.org/)
+* [invenioRDM](https://inveniosoftware.org/products/rdm/)
 * [iRODS](https://github.com/irods/irods)
 * [openBIS]
 * [Yoda](https://www.uu.nl/en/research/yoda)
