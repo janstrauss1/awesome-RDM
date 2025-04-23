@@ -473,7 +473,7 @@ For restricted access data:
 * [FAIRDOM-SEEK](https://seek4science.org/)
 * [invenioRDM](https://inveniosoftware.org/products/rdm/)
 * [iRODS](https://github.com/irods/irods)
-* [openBIS]
+* [openBIS](https://openbis.ch/)
 * [Yoda](https://www.uu.nl/en/research/yoda)
 * [Flow](https://flow.bio/) [Flow: a web platform and open database to analyse, store, curate and share bioinformatics data at scale](https://doi.org/10.1101/2023.08.22.544179)
 
